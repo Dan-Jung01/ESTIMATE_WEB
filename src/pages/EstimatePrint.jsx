@@ -38,7 +38,7 @@ export default function EstimatePrint() {
             </div>
             <div className="text-sm text-right leading-6">
               <div className="font-semibold text-gray-800">삼화크린글러브</div>
-              <div>대표자: 황길동</div>
+              <div>대표자: 정현배</div>
               <div>사업자등록번호: 123-45-67890</div>
               <div>주소: 경남 양산시 이락가</div>
               <div>전화: 055-123-4567 / 팩스: 055-765-4321</div>
