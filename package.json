@@ -2,7 +2,7 @@
   "name": "samhwa-estimate-frontend",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://Dan-Jung01/.github.io/ESTIMATE_WEB",
+  "homepage": "https://Dan-Jung01.github.io/ESTIMATE_WEB",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
